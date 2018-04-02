@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIP Bro", "RIP Bro.csproj", "{5C297BB4-9758-5E65-14C5-71255D0D22B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIP Bro.Editor", "RIP Bro.Editor.csproj", "{004414FD-E15B-1432-F336-E9A8CDDE3364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C297BB4-9758-5E65-14C5-71255D0D22B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C297BB4-9758-5E65-14C5-71255D0D22B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C297BB4-9758-5E65-14C5-71255D0D22B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C297BB4-9758-5E65-14C5-71255D0D22B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004414FD-E15B-1432-F336-E9A8CDDE3364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004414FD-E15B-1432-F336-E9A8CDDE3364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004414FD-E15B-1432-F336-E9A8CDDE3364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004414FD-E15B-1432-F336-E9A8CDDE3364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
